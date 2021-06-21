@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- XML을 사용한 배열 리소스의 정의 -->
+    <string-array name="res_nation">
+        <item>대한민국</item>
+        <item>일본</item>
+        <item>중국</item>
+        <item>미국</item>
+    </string-array>
+
+    <string-array name="setting_color">
+        <item>배경색 단일설정</item>
+        <item>배경색 중복설정</item>
+    </string-array>
+</resources>
